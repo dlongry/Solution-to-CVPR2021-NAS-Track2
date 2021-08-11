@@ -1,7 +1,7 @@
-# AI-Studio-项目标题
+# Solution to CVPR2021 NAS Track2
 
-## 项目描述
-简要描述项目
+## Description
+Tihs work ranks the 3rd place in the Performance Prediction Track of CVPR2021 1st Lightweight NAS Challenge.
 
 ## 项目结构
 ```
