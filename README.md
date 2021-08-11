@@ -7,8 +7,8 @@ For a detailed description of technical details and experimental results, please
 
 
 ## Usege A:
-[run the project on AI Studio ](https://aistudio.baidu.com/aistudio/projectdetail/1968445) 
+[Run the project on AI Studio ](https://aistudio.baidu.com/aistudio/projectdetail/1968445) 
 
 ## Usege B:
 ### data
-* 1. dwonlaod dataset from:
+* 1. dwonlaod dataset from competetion web
