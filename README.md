@@ -2,6 +2,7 @@
 
 ## Description
 Tihs work ranks the 3rd place in the Performance Prediction Track of CVPR2021 1st Lightweight NAS Challenge.
+The details can be refer to (https://arxiv.org/)
 
 ## 项目结构
 ```
