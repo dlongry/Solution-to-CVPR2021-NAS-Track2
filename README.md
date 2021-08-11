@@ -6,6 +6,9 @@ For a detailed description of technical details and experimental results, please
 [Cascade Bagging for Accuracy Prediction with Few Training Samples](https://arxiv.org/)
 
 
-## Usege
-A：[run the project](https://aistudio.baidu.com/aistudio/projectdetail/1968445) On AI Studio
-B：此处由项目作者进行撰写使用方式。
+## Usege A:
+[run the project on AI Studio ](https://aistudio.baidu.com/aistudio/projectdetail/1968445) 
+
+## Usege B:
+### data
+* 1. dwonlaod dataset from:
