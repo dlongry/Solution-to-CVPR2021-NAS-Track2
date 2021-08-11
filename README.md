@@ -2,7 +2,8 @@
 
 ## Description
 Tihs work ranks the 3rd place in the Performance Prediction Track of CVPR2021 1st Lightweight NAS Challenge.
-The details can be refer to (https://arxiv.org/)
+For a detailed description of technical details and experimental results, please refer to our paper:
+[Cascade Bagging for Accuracy Prediction with Few Training Samples]
 
 ## 项目结构
 ```
