@@ -30,20 +30,20 @@ Step3: run command:
 
 
 ## Train model:
- Step1: calibrate weak labels:  
+ Step1: generate training sample with noise:
  
-        Please refer to ./src/Label_Calibration.py
+        Refer to ./src/utils.py (函数名)
     
- Step2: generate training sample with noise:
+ Step2: calibrate weak labels: 
  
-        Please refer to ./src/utils.py (函数名)
+        Refer to ./src/Label_Calibration.py
     
   Step3: train first-level models
   
-        Please refer to ./src/Cascade_Bagging_First_Level.py
+        Refer to ./src/Cascade_Bagging_First_Level.py
     
   Step4: train second-level models:
   
-        Please refer to ./src/Cascade_Bagging_Second_Level.py
+        Refer to ./src/Cascade_Bagging_Second_Level.py
  
  [You also can run the project on AI Studio ](https://aistudio.baidu.com/aistudio/projectdetail/1968445) 
