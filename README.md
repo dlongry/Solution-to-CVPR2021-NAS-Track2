@@ -6,9 +6,23 @@ For a detailed description of technical details and experimental results, please
 [Cascade Bagging for Accuracy Prediction with Few Training Samples](https://arxiv.org/)
 
 
-## Usege A:
-[Run the project on AI Studio ](https://aistudio.baidu.com/aistudio/projectdetail/1968445) 
+## Run pretrained model：
+Step1: download pretrained models: 
+links ：https://pan.baidu.com/s/1QTvQIJ-Fdd8uu93XFlm-Bw 
+access code：ruza
 
-## Usege B:
-### data
-* 1. dwonlaod dataset from competetion web
+Step2：the folder structure should be as below:
+|--src
+|--data
+|--models (your unzip file here)
+|----first_level
+|----second_level
+|--result
+
+Step3:
+
+
+
+## Train model:
+ Clear version will coming soon ...
+ [You also could run the project on AI Studio ](https://aistudio.baidu.com/aistudio/projectdetail/1968445) 
