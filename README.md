@@ -12,11 +12,17 @@ links ：https://pan.baidu.com/s/1QTvQIJ-Fdd8uu93XFlm-Bw
 access code：ruza
 
 Step2：the folder structure should be as below:
+
 |--src
+
 |--data
+
 |--models (your unzip file here)
+
 |----first_level
+
 |----second_level
+
 |--result
 
 Step3:
