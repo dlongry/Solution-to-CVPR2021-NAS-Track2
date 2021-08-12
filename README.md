@@ -17,8 +17,8 @@ Step2：set folder structure  as below:
 |--data  
 |--src    
 |--models(you unzip folder)  
-|--|--first_level  
-|--|--sec_level  
+|  ├─first_level  
+|  └─sec_level   
 |--result  
 
 
