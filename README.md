@@ -23,7 +23,10 @@ Step2：set folder structure  as below:
 
 
 
-
+Step3: run command:
+        
+        cd ./src
+        python 
 
 
 ## Train model:
