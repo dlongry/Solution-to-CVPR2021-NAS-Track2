@@ -8,8 +8,8 @@ For a detailed description of technical details and experimental results, please
 
 ## Run pretrained model：
 Step1: download pretrained models: 
-links ：https://pan.baidu.com/s/1QTvQIJ-Fdd8uu93XFlm-Bw 
-access code：ruza
+* links ：https://pan.baidu.com/s/1QTvQIJ-Fdd8uu93XFlm-Bw 
+* access code：ruza
 
 Step2：the folder structure should be as below:
 
