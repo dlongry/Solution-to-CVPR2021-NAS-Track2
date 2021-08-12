@@ -15,10 +15,15 @@ Step1: download pretrained models:
 Step2：set folder structure  as below:
 
 ├─data
+
 ├─models
+
 │  ├─first_level
+
 │  └─sec_level
+
 ├─result
+
 └─src
 
 
