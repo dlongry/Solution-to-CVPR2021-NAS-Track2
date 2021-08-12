@@ -26,7 +26,7 @@ Step2：set folder structure  as below:
 Step3: run command:
         
         cd ./src
-        python 
+        python Pretrained_Prediction.py
 
 
 ## Train model:
