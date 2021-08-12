@@ -14,19 +14,12 @@ Step1: download pretrained models:
 
 Step2：set folder structure  as below:
 
-|--src
-
-|--data
-
-|--models (your unzip file here)
-
-|----first_level
-
-|----second_level
-
-|--result
-
-Step3:
+├─data
+├─models
+│  ├─first_level
+│  └─sec_level
+├─result
+└─src
 
 
 
