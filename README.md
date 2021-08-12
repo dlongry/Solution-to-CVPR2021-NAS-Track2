@@ -7,7 +7,7 @@ For a detailed description of technical details and experimental results, please
 [Cascade Bagging for Accuracy Prediction with Few Training Samples](https://arxiv.org/)
 
 
-## Run pretrained model：
+## Reproducing Competition Results：
 Step1: download pretrained models: 
 * links ：https://pan.baidu.com/s/1QTvQIJ-Fdd8uu93XFlm-Bw 
 * access code：ruza
@@ -29,7 +29,7 @@ Step3: run command:
         python Pretrained_Prediction.py
 
 
-## Train model:
+## Training  model:
  Step1: generate training sample with noise:
  
         Please refer to ./src/utils.py (input_gaussian_noise())
