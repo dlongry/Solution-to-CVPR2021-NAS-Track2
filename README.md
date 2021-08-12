@@ -7,7 +7,7 @@ For a detailed description of technical details and experimental results, please
 [Cascade Bagging for Accuracy Prediction with Few Training Samples](https://arxiv.org/)
 
 
-## Reproducing Competition Results：
+## Reproducing  Results：
 Step1: download pretrained models: 
 * links ：https://pan.baidu.com/s/1QTvQIJ-Fdd8uu93XFlm-Bw 
 * access code：ruza
