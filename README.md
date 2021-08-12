@@ -30,5 +30,7 @@ Step3: run command:
 
 
 ## Train model:
- Clear version will coming soon ...
- [You also could run the project on AI Studio ](https://aistudio.baidu.com/aistudio/projectdetail/1968445) 
+ 
+ Clear version of code is coming soon ...
+ 
+ [You also can run the project on AI Studio ](https://aistudio.baidu.com/aistudio/projectdetail/1968445) 
